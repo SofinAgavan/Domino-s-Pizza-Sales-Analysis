@@ -1,0 +1,1 @@
+SELECT * FROM myproject_2.domino_sales_excel_file_csv;
